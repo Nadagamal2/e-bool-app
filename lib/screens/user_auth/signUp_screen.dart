@@ -8,9 +8,9 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:gap/gap.dart';
 
 
-import '../user_auth/firebase_auth_implementation/firebase_auth_services.dart';
-import '../utils/app_style.dart';
-import '../utils/component.dart';
+import '../../user_auth/firebase_auth_implementation/firebase_auth_services.dart';
+import '../../utils/app_style.dart';
+import '../../utils/component.dart';
 import 'login_screen.dart';
 
 class SignUp extends StatefulWidget {
